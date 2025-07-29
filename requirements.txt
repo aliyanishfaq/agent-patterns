@@ -1,0 +1,18 @@
+# Core LangGraph and LangChain dependencies
+langgraph>=0.2.0
+langchain-core>=0.3.0
+langchain-anthropic>=0.2.0
+
+# Additional LangChain integrations (optional alternatives)
+langchain-openai>=0.2.0
+langchain-google-genai>=2.0.0
+
+# Core Python dependencies
+typing-extensions>=4.8.0
+pydantic>=2.0.0
+
+# Development and testing dependencies
+python-dotenv>=1.0.0
+
+# Optional: Additional tools and utilities
+requests>=2.31.0
